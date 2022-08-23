@@ -32,22 +32,10 @@ h1{
     text-align: center;
     
 }
-@media screen and (max-width: 1024px) {
-    .icon{
-        
 
-    }
-    .contact__socials{
-       
-        
-    }
-
- }
  @media screen and (max-width: 780px) {
-    .icon{
-        
-
-    }
+  
+    
     .contact__socials{
         margin-top: 4rem;
         flex-direction: column;
