@@ -43,7 +43,7 @@ const Resume = () => {
           <div class="card">
           <h3>Backend</h3>
           <ul>
-          <li><DiNodejsSmall/>Node.j</li>
+          <li><DiNodejsSmall/>Node.js</li>
           <li><BiTrain/>Express.js </li>
           <li><GiTigerHead/>Fastify</li>
           <li><BsFillGearFill/>REST API </li>
